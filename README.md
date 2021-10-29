@@ -1,3 +1,2 @@
 # CYO_Edx
-My own Project 
-This repository contain my project file
+This repository contain my bank marketing project
